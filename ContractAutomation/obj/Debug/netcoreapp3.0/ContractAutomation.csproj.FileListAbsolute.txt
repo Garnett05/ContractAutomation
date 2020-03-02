@@ -1,0 +1,11 @@
+D:\Documentos\C#\ContractAutomation\ContractAutomation\bin\Debug\netcoreapp3.0\ContractAutomation.exe
+D:\Documentos\C#\ContractAutomation\ContractAutomation\bin\Debug\netcoreapp3.0\ContractAutomation.deps.json
+D:\Documentos\C#\ContractAutomation\ContractAutomation\bin\Debug\netcoreapp3.0\ContractAutomation.runtimeconfig.json
+D:\Documentos\C#\ContractAutomation\ContractAutomation\bin\Debug\netcoreapp3.0\ContractAutomation.runtimeconfig.dev.json
+D:\Documentos\C#\ContractAutomation\ContractAutomation\bin\Debug\netcoreapp3.0\ContractAutomation.dll
+D:\Documentos\C#\ContractAutomation\ContractAutomation\bin\Debug\netcoreapp3.0\ContractAutomation.pdb
+D:\Documentos\C#\ContractAutomation\ContractAutomation\obj\Debug\netcoreapp3.0\ContractAutomation.csprojAssemblyReference.cache
+D:\Documentos\C#\ContractAutomation\ContractAutomation\obj\Debug\netcoreapp3.0\ContractAutomation.AssemblyInfoInputs.cache
+D:\Documentos\C#\ContractAutomation\ContractAutomation\obj\Debug\netcoreapp3.0\ContractAutomation.AssemblyInfo.cs
+D:\Documentos\C#\ContractAutomation\ContractAutomation\obj\Debug\netcoreapp3.0\ContractAutomation.dll
+D:\Documentos\C#\ContractAutomation\ContractAutomation\obj\Debug\netcoreapp3.0\ContractAutomation.pdb
